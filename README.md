@@ -1,5 +1,5 @@
 # US-City-Population-Data
-Major US City Data
+Display Major US City Population Data
 
 Select from:
  - New York
