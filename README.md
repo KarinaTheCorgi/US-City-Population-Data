@@ -1,5 +1,5 @@
-# US-City-Population-Data
-[Display Major US City Population Data](https://us-city-population-data.streamlit.app/)
+# [US-City-Population-Data](https://us-city-population-data.streamlit.app/)
+Display Major US City Population Data
 
 Select from:
  - New York
