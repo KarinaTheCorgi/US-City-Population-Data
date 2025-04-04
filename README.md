@@ -1,5 +1,5 @@
 # [US-City-Population-Data](https://us-city-population-data.streamlit.app/)
-![docker-publish](https://github.com/KarinaTheCorgi/US-City-Population-Data/blob/main/.github/workflows/docker-publish.yml/badge.svg)
+[![docker-publish](https://github.com/KarinaTheCorgi/US-City-Population-Data/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/KarinaTheCorgi/US-City-Population-Data/actions/workflows/docker-publish.yml)
 
 Display Major US City Population Data
 
