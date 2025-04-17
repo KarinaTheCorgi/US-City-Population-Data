@@ -1,6 +1,6 @@
 # [US-City-Population-Data](https://us-city-population-data.streamlit.app/)
 
-[![run-tests](https://github.com/KarinaTheCorgi/US-City-Population-Data/actions/workflows/python-app.yml/badge.svg)](https://github.com/KarinaTheCorgi/US-City-Population-Data/actions/workflows/python-app.yml)
+[![run-tests](https://github.com/KarinaTheCorgi/US-City-Population-Data/actions/workflows/python-app.yml/badge.svg?branch=main)](https://github.com/KarinaTheCorgi/US-City-Population-Data/actions/workflows/python-app.yml)
 
 [![docker-publish](https://github.com/KarinaTheCorgi/US-City-Population-Data/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/KarinaTheCorgi/US-City-Population-Data/actions/workflows/docker-publish.yml)
 
