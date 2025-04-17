@@ -14,7 +14,7 @@ import pytest
 from unittest.mock import Mock
 import pandas as pd
 import folium
-from src.app import fetch_data, load_city_data, create_map
+from app import fetch_data, load_city_data, create_map
 
 # Mock data for different cities, so that I don't use an API call every time
 mock_city_data = {
