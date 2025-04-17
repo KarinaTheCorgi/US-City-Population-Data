@@ -2,7 +2,7 @@
 # Author: Karina Solis
 # Resource: https://docs.streamlit.io/deploy/tutorials/docker
 
-FROM python:3.10-slim
+FROM python:3.13-slim
 
 WORKDIR /app
 
